@@ -1,3 +1,7 @@
+### 基于原项目改造
+基于[**rust-lang-cn/rust-by-example-cn**](https://github.com/rust-lang-cn/rust-by-example-cn)项目改造，添加了样式主题和侧边栏。
+
+
 # 通过例子学 Rust
 
 [![Build Status][travis-image]][travis-link]
