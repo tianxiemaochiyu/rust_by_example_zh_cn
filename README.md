@@ -1,5 +1,12 @@
 ### 基于原项目改造
+
 基于[**rust-lang-cn/rust-by-example-cn**](https://github.com/rust-lang-cn/rust-by-example-cn)项目改造，添加了样式主题和侧边栏。
+
+本项目线上阅读地址: [http://rust-example.scorpiocat.com](http://rust-example.scorpiocat.com)
+
+The book of rust(中文版): [http://rust.scorpiocat.com](http://rust.scorpiocat.com)
+
+The book of substrate(英文版): [http://substrate.scorpiocat.com](http://substrate.scorpiocat.com)
 
 
 # 通过例子学 Rust
