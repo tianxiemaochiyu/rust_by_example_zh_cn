@@ -2,7 +2,7 @@
 module.exports = {
 	theme: "reco",
 	themeConfig: {
-		repo: "https://github.com/rust-lang-cn/rust-by-example-cn",
+		repo: "https://github.com/tianxiemaochiyu/rust_by_example_zh_cn",
 		locales: {
 			// 键名是该语言所属的子路径
 			// 作为特例，默认语言可以使用 '/' 作为其路径。
